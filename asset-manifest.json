@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kmweb/static/css/main.3a20b902.css",
-    "main.js": "/kmweb/static/js/main.35e0a121.js",
+    "main.css": "/kmweb/static/css/main.a5d9ce3a.css",
+    "main.js": "/kmweb/static/js/main.69ac1a0f.js",
     "index.html": "/kmweb/index.html",
-    "main.3a20b902.css.map": "/kmweb/static/css/main.3a20b902.css.map",
-    "main.35e0a121.js.map": "/kmweb/static/js/main.35e0a121.js.map"
+    "main.a5d9ce3a.css.map": "/kmweb/static/css/main.a5d9ce3a.css.map",
+    "main.69ac1a0f.js.map": "/kmweb/static/js/main.69ac1a0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a20b902.css",
-    "static/js/main.35e0a121.js"
+    "static/css/main.a5d9ce3a.css",
+    "static/js/main.69ac1a0f.js"
   ]
 }
