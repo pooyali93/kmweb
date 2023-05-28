@@ -47,6 +47,7 @@
       @include mobile {
         width: 90%;
         height: 100%;
+        flex-wrap: unset;
 
       }
 
@@ -78,6 +79,11 @@
             object-fit: cover;
             margin: 0 30px ;
             background-color: $lightgreyColor;
+            
+            @include mobile {
+              width: 80px;
+              height: 80px;
+        }
 
           }
         }
@@ -87,7 +93,7 @@
         padding: 10px;
 
         @include mobile {
-          width:70%;
+          width: 100%;
         }
 
       }
